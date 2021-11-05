@@ -1,0 +1,49 @@
+*{
+    margin: 5px;
+    padding: 5px;
+
+} 
+ .flex{
+    background-color:yellowgreen;
+    display: flex;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+} 
+ul{
+    list-style-type: none;
+    
+    margin: 5px;
+    padding: 5px;
+
+}
+.sign{
+    float: right;
+    
+    margin: 5px;
+    padding: 5px;
+
+}
+
+     
+
+.flex address{
+    
+    margin: 10px;
+    padding: 10px;
+
+}
+.flex ul{
+    font-style: italic;
+}
+.obj p{
+    font-style: italic;
+}
+.two table{
+    border: 10px;
+    margin: 10px;
+
+}
+.two table tr td{
+    border: 10px;
+}
